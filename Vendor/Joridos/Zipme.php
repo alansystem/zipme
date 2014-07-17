@@ -2,8 +2,8 @@
 namespace Joridos;
 class Zipme
 {
-	public function teste($teste='')
-	{
-		echo "heuehue eheuehuehu";
-	}
+    public function __construct(){
+        echo "contruct";
+    }
+
 }
