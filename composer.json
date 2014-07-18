@@ -1,5 +1,5 @@
 {
-    "name": "joridos/Zipme",
+    "name": "joridos/zipme",
     "description": "Library for create zip archive in php",
     "type": "library",
     "keywords": ["zip","compression"],
